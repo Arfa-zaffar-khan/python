@@ -46,3 +46,5 @@ def drop(e):
     cur.execute(sql,e)
     con.commit()
     con.close()
+
+#prachiti panda bro
